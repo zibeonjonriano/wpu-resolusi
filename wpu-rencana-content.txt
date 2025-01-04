@@ -17,6 +17,7 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+  ^ OOP & GUI
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
  * Materi Sweet alert
